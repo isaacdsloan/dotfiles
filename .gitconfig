@@ -1,7 +1,8 @@
 # -*- mode: conf -*-
 [user]
 	name = Fernando Pérez
-	email = fernando.perez@berkeley.edu
+	email = isaacdsloan@berkeley.edu
+	name = “Isaac
 
 [include]
   # For Github username / creds / system-specific stuff, etc
